@@ -48,6 +48,8 @@ li a:hover{
     background-color: rgb(228, 228, 228);
     height: 3vh;
     border-radius: 100px;
-font-size: 35px;
-
+font-size: 15px;
+}
+li{
+    background-color: blue;
 }
